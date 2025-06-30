@@ -1,4 +1,3 @@
-// Estrutura do Código C#
 
 // Arquivo 1: Contato.cs
 
